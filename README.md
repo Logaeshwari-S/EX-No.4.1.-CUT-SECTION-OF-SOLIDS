@@ -25,6 +25,7 @@ To create the solid model from given drawing and section the solid model
 4.Now draw a tangent line joining  the centre circle of radius 25mm and right outermost circle of radius 15 and mirror them to the left as well.
 
 5.trim the unnecessary sketches and extrude the base for 10mm and extrude the small circle in each side of the base inward as it creates a hole.
+
 <img width="246" height="276" alt="image" src="https://github.com/user-attachments/assets/e0d7355a-15a2-4d08-bc1d-c3031b18ee93" />
 
 6.Now choose the area between the area of the centre circle of radius 10mm and 15mm and extrude it by 22mm.
